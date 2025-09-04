@@ -9,7 +9,7 @@ const VehiclesSection = () => {
     type: 'moto',
     image: 'https://mcusercontent.com/17635adc15e4488859eb5650d/images/c7da2f4b-8a82-2b39-e051-ee396ab17e16.png',
     buttonImage: 'https://mcusercontent.com/17635adc15e4488859eb5650d/images/a935f0a6-b857-e561-6cfb-9372a5c8b516.png',
-    title: 'Motocicletas',
+    title: 'GPS para Motocicletas',
     description: [
       'Historial de recorridos.',
       'Alerta de encendido y apagado.',
@@ -21,7 +21,7 @@ const VehiclesSection = () => {
       type: 'carro',
       image: 'https://mcusercontent.com/17635adc15e4488859eb5650d/images/fccb6b15-91a9-0e7d-55c4-ecf727c51460.png',
       buttonImage: 'https://mcusercontent.com/17635adc15e4488859eb5650d/images/6151997e-8e09-5ea0-a35e-07252812e098.png',
-      title: 'Automóviles',
+      title: 'GPS para Automóviles',
       description: [
         'Historial de recorridos.',
         'Reporte de kilometrajes diarios.',
@@ -33,7 +33,7 @@ const VehiclesSection = () => {
       type: 'camioneta',
       image: 'https://mcusercontent.com/17635adc15e4488859eb5650d/images/874d6f45-3912-7087-d76d-c0256ddd0175.png',
       buttonImage: 'https://mcusercontent.com/17635adc15e4488859eb5650d/images/05580367-1a5d-d88d-3f8a-29c4a5163424.png',
-      title: 'Camionetas',
+      title: 'GPS para Camionetas',
       description: [
         'Historial de recorridos.',
         'Reporte de kilometrajes diarios.',
@@ -46,7 +46,7 @@ const VehiclesSection = () => {
       type: 'camion',
       image: 'https://mcusercontent.com/17635adc15e4488859eb5650d/images/4d659912-9c18-c762-b2bd-1ce1f8a974a4.png', 
       buttonImage: 'https://mcusercontent.com/17635adc15e4488859eb5650d/images/b136b1b5-5df3-6d4a-47cc-4f77b572962f.png',
-      title: 'Camiones',
+      title: 'GPS para Camiones',
       description: [
         'Reporte de kilometrajes diarios.',
         'Reporte de velocidades.',
